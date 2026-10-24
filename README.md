@@ -6,7 +6,7 @@ Web app for a GB power buyer who must purchase day-ahead electricity and needs t
 Data: Elexon BMRS only, national wind. `FUELHH` (actuals, fuelType WIND) and `WINDFOR` (forecasts).
 Scope: purchase decisions made in **January 2026** (delivery days 2 Jan - 1 Feb 2026).
 
-**Live app:** `<paste your Vercel URL here>`
+**Live app:** `https://vnsjfs.vercel.app/`
 
 > **AI disclosure:** this project was built with the help of an AI assistant (Anthropic Claude) for
 > scaffolding, code and documentation. I reviewed, ran and tested the result.
